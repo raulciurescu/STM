@@ -1,0 +1,120 @@
+2024-09-16 08:56:00,173 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x165,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-16 08:56:20,934 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-09-16 08:56:20,934 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-09-16 08:56:20,934 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-09-16 08:56:20,934 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-09-16 08:56:20,934 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-09-16 08:56:20,934 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-09-16 08:56:20,934 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-09-16 08:56:20,935 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-09-16 08:56:20,936 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-09-16 08:56:20,936 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-09-16 08:56:20,937 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-09-16 08:56:22,785 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-09-16 08:56:22,786 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-09-16 08:56:22,786 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-09-16 08:56:35,676 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x165,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-16 08:57:19,234 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 308558568 Bytes (812646400)
+2024-09-16 08:57:19,323 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-09-16 08:57:19,324 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-09-16 08:57:19,324 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-09-16 08:57:19,349 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 329530024 Bytes (812646400)
+2024-09-16 08:57:19,908 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 400628984 Bytes (812646400)
+2024-09-16 08:57:20,148 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SPI
+2024-09-16 08:57:20,149 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8
+2024-09-16 08:57:20,149 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: I2S
+2024-09-16 08:57:20,149 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-09-16 08:57:20,149 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-16 08:57:20,149 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: I2C
+2024-09-16 08:57:20,149 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USB_OTG_FS
+2024-09-16 08:57:20,149 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-16 08:57:20,149 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USB_HOST
+2024-09-16 08:57:20,150 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-09-16 08:57:20,151 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-09-16 08:57:20,154 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-16 08:57:20,154 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-16 08:57:20,335 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\license.tmp_save
+2024-09-16 08:57:20,429 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\license.tmp
+2024-09-16 08:57:20,479 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\gpio.tmp_save
+2024-09-16 08:57:20,567 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\gpio.tmp
+2024-09-16 08:57:20,639 [WARN] IPConfigManager:3005 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-09-16 08:57:20,653 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-09-16 08:57:20,735 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-09-16 08:57:20,745 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-09-16 08:57:20,820 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-09-16 08:57:20,840 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-09-16 08:57:20,954 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-09-16 08:57:20,967 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-09-16 08:57:21,052 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-09-16 08:57:21,346 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\USB_HOST\App\usb_host.c_save
+2024-09-16 08:57:21,428 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\USB_HOST\App\usb_host.c
+2024-09-16 08:57:21,449 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\USB_HOST\App\usb_host.h_save
+2024-09-16 08:57:21,515 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\USB_HOST\App\usb_host.h
+2024-09-16 08:57:21,537 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\USB_HOST\Target\usbh_conf.h_save
+2024-09-16 08:57:21,621 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\USB_HOST\Target\usbh_conf.h
+2024-09-16 08:57:21,643 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\USB_HOST\Target\usbh_conf.c_save
+2024-09-16 08:57:21,734 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\USB_HOST\Target\usbh_conf.c
+2024-09-16 08:57:21,754 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\USB_HOST\Target\usbh_platform.c_save
+2024-09-16 08:57:21,826 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\USB_HOST\Target\usbh_platform.c
+2024-09-16 08:57:21,848 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\USB_HOST\Target\usbh_platform.h_save
+2024-09-16 08:57:21,919 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\USB_HOST\Target\usbh_platform.h
+2024-09-16 08:57:21,949 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\Core\Src\stm32f4xx_it.c_save
+2024-09-16 08:57:22,125 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\Core\Src\stm32f4xx_it.c
+2024-09-16 08:57:22,154 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\Core\Inc\stm32f4xx_it.h_save
+2024-09-16 08:57:22,225 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\Core\Inc\stm32f4xx_it.h
+2024-09-16 08:57:22,260 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\Core\Src\stm32f4xx_hal_msp.c_save
+2024-09-16 08:57:22,387 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\Core\Src\stm32f4xx_hal_msp.c
+2024-09-16 08:57:22,399 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\system.tmp_save
+2024-09-16 08:57:22,463 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\MXTmpFiles\system.tmp
+2024-09-16 08:57:22,508 [INFO] CodeEngine:311 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-09-16 08:57:22,608 [INFO] CodeEngine:335 - Generated code: D:\STM_WorkSpace\IDE\Ex1\Core\Inc\stm32f4xx_hal_conf.h
+2024-09-16 08:57:22,637 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-09-16 08:57:22,638 [WARN] CodeGenerator:4002 - IP not found : null
+2024-09-16 08:57:22,668 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\Core\Inc\main.h_save
+2024-09-16 08:57:22,768 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\Core\Inc\main.h
+2024-09-16 08:57:22,790 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM_WorkSpace\IDE\Ex1\Core\Src\main.c_save
+2024-09-16 08:57:22,916 [INFO] CodeEngine:279 - Generated code: D:\STM_WorkSpace\IDE\Ex1\Core\Src\main.c
+2024-09-16 08:57:23,326 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 247mS.
+2024-09-16 08:57:23,332 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-16 08:57:23,409 [INFO] ConfigFileManager:1531 - The Die is : DIE413
+2024-09-16 08:57:24,365 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1033mS.
+2024-09-16 08:57:24,366 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-09-16 08:57:24,369 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.

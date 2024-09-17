@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Ex1/Core/Tracealyzer&apos;" deleteContents="false" description="Delete resource &apos;Ex1/Core/Tracealyzer&apos;" element1="/Ex1/Core/Tracealyzer" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1726554673391"/>
+</session>

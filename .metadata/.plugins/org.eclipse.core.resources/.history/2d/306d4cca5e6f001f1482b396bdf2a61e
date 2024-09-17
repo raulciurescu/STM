@@ -1,0 +1,36 @@
+#include "ex4.h"
+#include "main.h"
+
+
+
+int clk ;
+void ex4(void)
+{
+  /* USER CODE BEGIN EXTI0_IRQn 0 */
+	 clk++;
+HAL_GPIO_WritePin(GPIOD, LD3_Pin, GPIO_PIN_RESET);
+HAL_GPIO_WritePin(GPIOD, LD4_Pin, GPIO_PIN_RESET);
+HAL_GPIO_WritePin(GPIOD, LD5_Pin, GPIO_PIN_RESET);
+HAL_GPIO_WritePin(GPIOD, LD6_Pin, GPIO_PIN_RESET);
+
+if(clk == 4){
+	clk = 0;
+}
+
+if (clk == 0) {
+	HAL_GPIO_WritePin(GPIOD, LD3_Pin, GPIO_PIN_SET);   // LED LD3 ON
+} else if (clk == 1) {
+	HAL_GPIO_WritePin(GPIOD, LD4_Pin, GPIO_PIN_SET);   // LED LD4 ON
+} else if (clk == 2) {
+	HAL_GPIO_WritePin(GPIOD, LD6_Pin, GPIO_PIN_SET);   // LED LD6 ON
+} else if (clk == 3) {
+	HAL_GPIO_WritePin(GPIOD, LD5_Pin, GPIO_PIN_SET);   // LED LD5 ON
+}
+
+
+  /* USER CODE END EXTI0_IRQn 0 */
+  HAL_GPIO_EXTI_IRQHandler(GPIO_PIN_0);
+  /* USER CODE BEGIN EXTI0_IRQn 1 */
+
+  /* USER CODE END EXTI0_IRQn 1 */
+}

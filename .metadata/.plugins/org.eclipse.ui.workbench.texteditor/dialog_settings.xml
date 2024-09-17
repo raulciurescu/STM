@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="LD3"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="LD3"/>
+			<item value="LD6"/>
+			<item value="LD"/>
+			<item value="#define TRC_CFG_FREERTOS_VERSION FREERTOS_VERSION_NOT_SET"/>
+			<item value="htim2"/>
+			<item value="IRQ"/>
+			<item value="SystemClock_Config()"/>
+			<item value="MX_TIM1_Init()"/>
+			<item value="htim"/>
+			<item value="TIM"/>
+			<item value="HAL_TIM_Base_Start_IT(&amp;htim2);"/>
+			<item value="timer"/>
+			<item value="HAL_GPIO_EXTI_IRQHandler"/>
+			<item value="interr"/>
+			<item value="handl"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1416"/>
+		<item key="DIALOG_Y_ORIGIN" value="107"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,13 @@
+/*
+ * ex4.h
+ *
+ *  Created on: Sep 10, 2024
+ *      Author: raulc
+ */
+
+#ifndef INC_EX4_H_
+#define INC_EX4_H_
+
+void ex4()
+
+#endif /* INC_EX4_H_ */
